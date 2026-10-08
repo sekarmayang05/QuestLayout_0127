@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Prak3</string>
+    <string name="prodi">Teknologi Informasi</string>
+    <string name="Univ">Universitas Muhammadiyah Yogyakarta</string>
+    <string name="nama">Bambang Sumantri</string>
+    <string name="alamat">Turi, Sleman</string>
+    <string name="copy">Copyright</string>
 </resources>
