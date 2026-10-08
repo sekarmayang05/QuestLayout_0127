@@ -41,6 +41,12 @@ fun ActivitasPertama(modifier: Modifier) {
             fontSize = 35.sp,
             fontWeight = FontWeight.Bold
         )
+        Text(
+            stringResource(id = R.string.Univ),
+            fontSize = 22.sp
+        )
+        Spacer(
+            modifier = Modifier.height(25.dp)
 
     }
 }
